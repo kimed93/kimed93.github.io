@@ -1,14 +1,24 @@
-# this file contains the social media links and usernames of the author
-# the socials will be displayed in the order they are defined here
-# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
-email: you@example.com # your email address
-inspirehep_id: 1010907 # Inspire HEP author ID
-rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
-# wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+# Academic and professional profiles for Eden Kim.
+# Uncomment each entry only after confirming the real account or uploading the file.
+# Public links will appear on the academic homepage.
+
+github_username: kimed93
+
+# Work email (use a public professional address, not a personal one):
+# email: YOUR_WORK_EMAIL
+
+# Academic profiles:
+# scholar_userid: YOUR_GOOGLE_SCHOLAR_ID
+# orcid_id: YOUR_ORCID_ID
+
+# Curriculum vitae: upload the real PDF before enabling.
+# cv_pdf: /assets/pdf/cv.pdf
+
+# Optional RSS feed:
+rss_icon: true
+
+# Optional additional profile (only if needed):
+# custom_social:
+#   logo: /assets/img/custom_social_icon.png
+#   title: Research Profile
+#   url: https://example.org/profile
