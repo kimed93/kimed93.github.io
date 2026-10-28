@@ -6,7 +6,7 @@ subtitle: "AI Researcher | Energy Intelligence Research Laboratory, ETRI"
 
 profile:
   align: right
-  image:
+  image: prof_pic.jpg
   image_circular: false
   more_info: >
     <p>Energy Intelligence Research Laboratory</p>
