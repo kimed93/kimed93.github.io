@@ -28,7 +28,7 @@ latest_posts:
   limit: 3
 ---
 
-I am **Eden Kim**, an AI researcher at the **Energy Intelligence Research Laboratory, Electronics and Telecommunications Research Institute (ETRI)**, Republic of Korea.
+I am **Eden Kim**, an AI researcher at the **Energy Intelligence Research Laboratory, Electronics and Telecommunications Research Institute (ETRI)**, and a **Ph.D. student at the AI Graduate School, Gwangju Institute of Science and Technology (GIST)**, Republic of Korea.
 
 My research focuses on developing **predictive, robust, and generalizable AI methodologies** for intelligent condition monitoring, prognostics and health management (PHM), and predictive maintenance in industrial and energy systems. In particular, I investigate learning-based approaches for **anomaly detection, fault diagnosis, degradation modeling, and remaining useful life (RUL) estimation** using complex sensor and time-series data.
 
@@ -63,3 +63,13 @@ My long-term research goal is to advance **reliable and transferable AI framewor
 - Cross-domain and cross-dataset generalization
 - Active learning and domain adaptation
 - Data-efficient and robust learning under distribution shifts
+
+## Education
+
+- **Ph.D. Student in Artificial Intelligence**, Gwangju Institute of Science and Technology (GIST), Mar. 2023 – Present
+- **M.S. in Mechanical Engineering**, Gwangju Institute of Science and Technology (GIST), Mar. 2017 – Feb. 2019
+- **B.S. in Mechanical and Control Engineering**, Handong Global University, Mar. 2012 – Feb. 2017
+
+## Professional Experience
+
+- **Researcher**, Electronics and Telecommunications Research Institute (ETRI), Mar. 2019 – Present
