@@ -1,11 +1,11 @@
 cv:
   name: Eden Kim
-  label: AI Researcher | Ph.D. Student
+  label: Senior Researcher | Ph.D. Student
   email: kimed93@etri.re.kr
   location: Gwangju, Republic of Korea
   image: ""
   summary: >-
-    AI researcher at the Energy Intelligence Research Laboratory, Electronics and
+    Senior Researcher at the Energy Intelligence Research Laboratory, Electronics and
     Telecommunications Research Institute (ETRI), and Ph.D. student at the AI
     Graduate School, Gwangju Institute of Science and Technology (GIST).
     Research interests include prognostics and health management (PHM),
@@ -47,11 +47,17 @@ cv:
 
     Experience:
       - company: Electronics and Telecommunications Research Institute (ETRI)
+        position: Senior Researcher
+        location: Gwangju, Republic of Korea
+        start_date: 2025
+        end_date: present
+        summary: Energy Intelligence Research Laboratory; research in AI for energy and industrial systems.
+      - company: Electronics and Telecommunications Research Institute (ETRI)
         position: Researcher
         location: Gwangju, Republic of Korea
         start_date: 2019-03
-        end_date: present
-        summary: Energy Intelligence Research Laboratory; research in AI for energy and industrial systems.
+        end_date: 2024
+        summary: Research in AI for energy and industrial systems.
 
     Research Interests:
       - label: Prognostics, Health Management and Predictive Maintenance
